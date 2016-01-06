@@ -11,9 +11,11 @@ hs_err_pid*
 # temporary folders
 lib/
 bin/
+.idea/
 
 # unneeded eclipse info
 .metadata/
 
 # match files
 *rms
+*.iml
