@@ -19,3 +19,6 @@ bin/
 # match files
 *rms
 *.iml
+
+# ivy
+!.ivy/ivy-2.4.0.jar
